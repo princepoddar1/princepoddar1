@@ -9,7 +9,7 @@ I'm a passionate **Data Analyst Fresher** who loves turning data into actionable
 - 🌱 I’m constantly improving my skills in **Python, SQL, Power BI, and Excel**.  
 - 👯 I’m looking to collaborate on **data-driven projects** and **business intelligence dashboards**.  
 - 💬 Ask me about **data visualization, data cleaning, and database management**.  
-- 📫 How to reach me: princedspsp@gmail.com
+- 📫 How to reach me: princekumar.ds01@gmail.com
 
 ---
 
